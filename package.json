@@ -1,11 +1,19 @@
 {
-  "name": "how-to-npm",
+  "name": "@wajeeh.zantout/how-to-npm",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WajeehZantout/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WajeehZantout/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/WajeehZantout/how-to-npm#readme",
+  "description": ""
 }
